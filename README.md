@@ -9,25 +9,25 @@
 ## 🚀 GitHub At a Glance
 
 <!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ih-Taifur&show_icons=true&theme=tokyonight)](https://github.com/Ih-Taifur)
 
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ih-Taifur&layout=compact&theme=tokyonight)](https://github.com/Ih-Taifur)
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ih-Taifur&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 Recent Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ih-Taifur&theme=github)
 
 ---
 
 ## 👀 Profile Visitors
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Ih-Taifur&color=green&style=flat-square)
 
 ---
 
