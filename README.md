@@ -38,9 +38,9 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: [imrantaifur@gmail.com](mailto:imrantaifur@gmail.com)
-- 💬 LinkedIn: _(optional – I can help you set it up if you want)_
-- 🌍 Portfolio Website: _(optional – I can help build one when you’re ready)_
+- 📧 Email: [ih.taifur@gmail.com](Mail to:Imran Taifur)
+- 💬 LinkedIn: https://www.linkedin.com/in/imran-hossain-taifur/
+
 
 ---
 
