@@ -38,7 +38,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: [ih.taifur@gmail.com](Mail to:Imran Taifur)
+- 📧 Email: [ih.taifur@gmail.com](mailto:imrantaifur@gmail.com)
 - 💬 LinkedIn: https://www.linkedin.com/in/imran-hossain-taifur/
 
 
