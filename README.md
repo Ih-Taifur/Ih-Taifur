@@ -62,7 +62,7 @@
 ---
 
 ### 📫 Connect with Me
-- 🤖 GitHub: `Ih-Taifur`
+- 🤖 GitHub: Ih-Taifur
 - 📧 Email: [ih.taifur@gmail.com](mailto:imrantaifur@gmail.com)
 - 💬 LinkedIn: https://www.linkedin.com/in/imran-hossain-taifur/
 
